@@ -47,8 +47,8 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/eros213/batstateuconnect.git
-   cd batstateuconnect
+   git clone https://github.com/lemmadriaga/bsuconnect.git
+   cd bsuconnect
    ```
 
 2. **Install Dependencies**
@@ -98,7 +98,7 @@ Contributions are welcome! Please open a pull request with a clear description o
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [eros213](https://github.com/eros213)
-- **Email**: [franceeros86@gmail.com]
+- **GitHub**: [lemmadriaga](https://github.com/lemmadriaga)
+- **Email**: [lemmadriaga02@gmail.com]
 
 ---
